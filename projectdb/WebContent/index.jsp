@@ -72,6 +72,8 @@
 					<div class="collapse navbar-collapse navbar-responsive-collapse">
 						<ul class="nav navbar-nav navbar-right">
 							<li class="current"><a href="index.jsp">Inicio</a></li>
+							<li><a href="viajes.jsp">Viajes</a></li>
+							<li><a href="camioneros.jsp">Camioneros</a></li>
 						</ul>
 					</div>
 					<!-- Main Navigation menu ends--> </nav>
